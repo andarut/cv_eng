@@ -1,5 +1,3 @@
-# CV_ENG
-
 <img src="https://github.com/user-attachments/assets/1ced7d2f-0119-40ea-8ee2-f236c5d1fbf0" alt="drawing" width="190" align="left"/>
 
 ### Andrey Romanovich Arutyunyan
